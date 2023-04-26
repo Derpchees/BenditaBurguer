@@ -1,0 +1,27 @@
+#menu {
+	width: 90%;
+    margin: 20px auto;
+	color: white;
+    background-color: #080808;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.platillo {
+    margin: 20px;
+}
+
+.titulo-platillo {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.descripcion-platillo {
+	font-size: 16px;
+}
+.platillo img {
+	width: 100%;
+	max-width: 300px;
+	height: auto;
+	margin-bottom: 10px;
+	border-radius: 10px 10px 10px 10px;
+}
